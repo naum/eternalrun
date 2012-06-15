@@ -1,0 +1,72 @@
+/* BASE COLOR: #56887D */
+
+body {
+    background: #2B443F;
+    color: #EFF4F3;
+    font-family: Monaco, monospace;
+    font-size: 100.00%;
+    line-height: 1.33em;
+    margin: 1.33em auto;
+    text-shadow: #16221F 0.0625em 0.0625em 0.0625em;
+    margin: 2em auto;
+    width: 91.66%;
+    max-width: 720px;
+}
+
+footer {
+    color: #81A69E;
+    font-size: 0.5625em; 
+    font-style: italic;
+    margin-top: 3.16em;
+    text-align: center;
+}
+
+header {
+    margin-bottom: 2.37em;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 2.37em;
+    text-align: center;
+    text-shadow: #16221F 0.125em 0.125em 0.125em;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.cardchart {
+    margin: 2.37em auto;
+}
+
+.cardchart tr {
+    padding-top: 0.33em;
+    padding-bottom: 0.33em;
+}
+
+.cardchart th {
+    border-top: 0.125em solid #81A69E;
+    border-bottom: 0.0625em solid #81A69E;
+}
+
+.cardchart tr, .cardchart td {
+    border-bottom: 0.0625em solid #41665E;
+}
+
+.celnum {
+    padding: 0.16em 1em;
+    text-align: right;
+}
+
+.celtex {
+    padding: 0.16em 1em;
+    text-align: left;
+}
+
+.mono {
+    font-family: Courier, monospace; 
+}
