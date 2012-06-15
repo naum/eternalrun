@@ -3,7 +3,7 @@
 body {
     background: #2B443F;
     color: #EFF4F3;
-    font-family: Monaco, monospace;
+    font-family: monospace;
     font-size: 100.00%;
     line-height: 1.33em;
     margin: 1.33em auto;
@@ -37,6 +37,10 @@ h1 {
 
 table {
     border-collapse: collapse;
+}
+
+#pagecontent {
+    min-height: 320px;
 }
 
 .cardchart {
